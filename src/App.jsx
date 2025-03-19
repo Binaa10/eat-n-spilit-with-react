@@ -203,3 +203,4 @@ function FormSplitBill({ select, onHandleSplitBill }) {
     </form>
   );
 }
+
